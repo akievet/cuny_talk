@@ -1,1 +1,2 @@
-# CUNY talk Notes and Resource List
+### CUNY talk Notes and Resource List
+by Amanda Kievet
