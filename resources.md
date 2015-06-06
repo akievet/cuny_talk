@@ -8,7 +8,6 @@ well-designed videos created for web beginners. Did I mention good design?
 ### Responsive
 * [Responsive Testing](http://mattkersley.com/responsive/)
 Test the responsiveness of your website.
-
 * [Responsive Web Design Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
 
 ### Tools
