@@ -15,7 +15,10 @@
 
 * Layout - Follow established design rules
   * 12 column grid systems rocks
+    * Bootstrap grid
+    * Skeleton
   * Golden ratio
+    * What is it
 
 
 * Accessibility
