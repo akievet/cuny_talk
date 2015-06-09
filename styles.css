@@ -1,0 +1,19 @@
+img[alt=grid-img],
+img[alt=golden-ratio-img],
+img[alt=img]{
+  width: 100%;
+}
+
+img[alt=img-vert]{
+  width: 300px;
+}
+
+img[alt=img-half]{
+  width: 50%;
+}
+
+img[alt=map]{
+  width: 30%;
+  display: block;
+  margin: 20px auto 130px;
+}
