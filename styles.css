@@ -15,5 +15,5 @@ img[alt=img-half]{
 img[alt=map]{
   width: 30%;
   display: block;
-  margin: 20px auto 130px;
+  margin: 50px 0 100px 0;
 }
