@@ -10,7 +10,7 @@ well-designed videos created for web beginners. Did I mention good design?
 Test the responsiveness of your website.
 * [Responsive Web Design Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
 * [What the Heck is Responsive Web Design](http://johnpolacek.github.io/scrolldeck.js/decks/responsive/)
-  Beautifully designed exammple of different components of responsiveness. Good
+  Beautifully designed example of different components of responsiveness. Good
   resources.
 
 ### Tools
